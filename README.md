@@ -89,6 +89,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yamankubra&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" /></div>  
+<br/> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamankubra&layout=compact&show_icons=true&theme=algolia" align="center" /></div> 
 
 
