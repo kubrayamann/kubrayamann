@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -27,7 +24,7 @@
 ## My Skill Set  
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
     ### Programming Languages  
       <div align="center">  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
@@ -35,7 +32,7 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
     ### Frontend  
       <div align="center">  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -44,14 +41,14 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
       ### Backend  
       <div align="center">   
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
       ### Database  
       <div align="center">   
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
