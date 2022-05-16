@@ -6,7 +6,7 @@
 ### <div align="center">I'm Kübra, a full-time Jr. Software Developer 👨‍💻 working since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Social Media](https://github.com/yamankubra/social-nodejs)  
+- 🔭 I’m currently working on [Social Media (Nodejs)](https://github.com/yamankubra/social-nodejs)  and  [Social Media (Reactjs)](https://github.com/yamankubra/social-reactjs)  
   
 
 - 🌱 I’m currently learning MERN Stack  
