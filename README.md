@@ -6,7 +6,7 @@
 ### <div align="center">I'm Kübra, a full-time Jr. Software Developer 👨‍💻 working since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Social Media (Nodejs)](https://github.com/yamankubra/social-nodejs)  and  [Social Media (Reactjs)](https://github.com/yamankubra/social-reactjs)  
+- 🔭 I’m currently working on [Social Media (Nodejs)](https://github.com/kubrayamann/social-nodejs)  and  [Social Media (Reactjs)](https://github.com/kubrayamann/social-reactjs)  
   
 
 - 🌱 I’m currently learning MERN Stack  
@@ -69,13 +69,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/yamankubra" target="_blank">
+<a href="https://github.com/kubrayamann" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/justkubraaa" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/yamankubra" target="_blank">
+<a href="https://linkedin.com/in/kubrayamann" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 <a href="https://instagram.com/kubrayyamann" target="_blank">
@@ -88,9 +88,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yamankubra&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kubrayamann&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" /></div>  
 <br/> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamankubra&layout=compact&show_icons=true&theme=algolia" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubrayamann&layout=compact&show_icons=true&theme=algolia" align="center" /></div> 
 
 
 <br/>  
@@ -98,8 +98,8 @@
 ---- 
 <!--
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamankubra&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubrayamann&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamankubra&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubrayamann&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
